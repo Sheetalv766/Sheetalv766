@@ -1,5 +1,5 @@
 👋 Hi, I’m SHEETAL VERMA
-  QA Automation Engineer || M.Com Graduate
+  QA Tester@TDD|| QA Automation Engineer || M.Com Graduate
 
 👨‍💻 Crio Portfolio (all projects) - https://www.crio.do/learn/portfolio/sheetalverma8855
 
